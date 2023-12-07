@@ -1,5 +1,6 @@
 return {
 	dark = {
+		-- My color palette adapter to my eyes.
 		black = "#181a1f",
 		bg0 = "#282c34",
 		bg1 = "#31353f",
@@ -7,15 +8,15 @@ return {
 		bg3 = "#3b3f4c",
 		bg_d = "#21252b",
 		bg_blue = "#73b8f1",
-		bg_yellow = "#ebd09c",
-		fg = "#abb2bf",
+		bg_yellow = "#eaeb9c",
+		fg = "#bdc5d4",
 		purple = "#c678dd",
-		green = "#98c379",
-		orange = "#d19a66",
+		green = "#9ccf69",
+		orange = "#d19556",
 		blue = "#61afef",
-		yellow = "#e5c07b",
+		yellow = "#d6e562",
 		cyan = "#56b6c2",
-		red = "#e86671",
+		red = "#d62f3f",
 		grey = "#5c6370",
 		light_grey = "#848b98",
 		dark_cyan = "#2b6f77",
