@@ -96,8 +96,8 @@ hl.common = {
 	debugPC = { fg = c.bg0, bg = c.green },
 	debugBreakpoint = { fg = c.bg0, bg = c.red },
 	ToolbarButton = { fg = c.bg0, bg = c.bg_blue },
-	FloatBorder = { fg = c.grey, bg = c.bg4 },
-	NormalFloat = { fg = c.fg, bg = c.bg4 },
+	FloatBorder = { fg = c.grey, bg = c.bg2 },
+	NormalFloat = { fg = c.fg, bg = c.bg2 },
 }
 
 hl.syntax = {
