@@ -96,8 +96,8 @@ hl.common = {
 	debugPC = { fg = c.bg0, bg = c.green },
 	debugBreakpoint = { fg = c.bg0, bg = c.red },
 	ToolbarButton = { fg = c.bg0, bg = c.bg_blue },
-	FloatBorder = { fg = c.grey, bg = c.bg2 },
-	NormalFloat = { fg = c.fg, bg = c.bg2 },
+	FloatBorder = { fg = c.blue, bg = c.bg },
+	NormalFloat = { fg = c.fg, bg = c.bg },
 }
 
 hl.syntax = {
@@ -388,7 +388,7 @@ hl.plugins.coc = {
 }
 
 hl.plugins.whichkey = {
-	WhichKey = colors.Orange,
+	WhichKey = colors.Red,
 	WhichKeyDesc = colors.Yellow,
 	WhichKeyGroup = colors.Blue,
 	WhichKeySeparator = colors.Green,
